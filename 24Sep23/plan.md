@@ -1,0 +1,21 @@
+- main
+  - menu
+    - menu-hamburger
+    - menu-summary
+    - menu-activity
+    - menu-send-or-request
+  - balance
+    - balance-title
+    - balance-value
+  - category
+    - category-pending
+    - category-complete
+  - payment-list
+    - payment (multiple of these)
+      - payment-name
+      - payment-details
+      - payment-status
+      - payment-options
+        - payment-options-reminder
+        - payment-options-edit
+        - payment-options-cancel
